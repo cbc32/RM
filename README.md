@@ -8,7 +8,7 @@ If you would like to see an example of my code writing, see ___loglikelihood.py_
 
 Biogeme is an open-source Python library.
 In one attempt at improvement I modified the source code,
-but my final solutions are biogeme_nice.py (using the original library) and loglikelihood.py (without biogeme).
+but this was not included in my final solutions, biogeme_nice.py (using the original library) and loglikelihood.py (without biogeme).
 
 Contact Charles Bauer
 zcharliebauer@gmail.com
